@@ -1,0 +1,42 @@
+.travel1 {
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: none
+}
+
+.travel1 h5,
+.travel1 p {
+    margin-left: 20px;
+}
+
+.travel1 img {
+    width: 100%
+}
+
+.mov{
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.mov i{
+    float: right;
+}
+.movietext h5 span {
+    color: orange
+}
+.movietext h5{font-weight: bold}
+.pic{
+    height: 40%;
+    width: 100%;
+    
+}
+iframe{
+    width: 100%;
+    
+}
